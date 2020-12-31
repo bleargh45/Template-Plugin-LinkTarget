@@ -8,6 +8,7 @@ use warnings;
 use HTML::Parser;
 use HTML::Entities qw(encode_entities);
 use base qw(Template::Plugin::Filter);
+use namespace::clean;
 
 ###############################################################################
 # Version number.
