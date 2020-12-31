@@ -1,6 +1,6 @@
 # NAME
 
-Template::Plugin::LinkTarget - TT filter to add "target" attribute to all HTML links
+Template::Plugin::LinkTarget - Template Toolkit filter to add "target" attribute to all HTML links
 
 # SYNOPSIS
 
@@ -16,8 +16,8 @@ Template::Plugin::LinkTarget - TT filter to add "target" attribute to all HTML l
 
 # DESCRIPTION
 
-`Template::Plugin::LinkTarget` is a filter plugin for TT, which adds a
-`target` attribute to all HTML links found in the filtered text.
+`Template::Plugin::LinkTarget` is a filter plugin for `Template::Toolkit`,
+which adds a `target` attribute to all HTML links found in the filtered text.
 
 Through the use of the `exclude` option, you can specify URLs that are _not_
 given a new `target` attribute.  This can be used to set up a filter that
