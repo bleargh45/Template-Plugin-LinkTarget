@@ -32,11 +32,11 @@ defaulting to "\_blank".
 
 - init()
 
-    Initializes the template plugin. 
+    Initializes the template plugin.
 
 - filter($text, $args, $conf)
 
-    Filters the given text, and adds the "target" attribute to links. 
+    Filters the given text, and adds the "target" attribute to links.
 
 # AUTHOR
 

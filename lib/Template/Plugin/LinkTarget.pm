@@ -119,11 +119,11 @@ defaulting to "_blank".
 
 =item init()
 
-Initializes the template plugin. 
+Initializes the template plugin.
 
 =item filter($text, $args, $conf)
 
-Filters the given text, and adds the "target" attribute to links. 
+Filters the given text, and adds the "target" attribute to links.
 
 =back
 
