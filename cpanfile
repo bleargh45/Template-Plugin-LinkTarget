@@ -1,3 +1,4 @@
+requires 'perl', '>= 5.008';
 requires 'HTML::Entities';
 requires 'HTML::Parser';
 requires 'namespace::clean';
