@@ -1,6 +1,8 @@
 Revision history for Perl extension Template::Plugin::LinkTarget
 
 {{$NEXT}}
+
+0.04      2021-01-12 11:30:39-08:00 America/Vancouver
     - Fix version dependency on Template, which got lost in DZil switch.
     - Bump minimum required Perl to v5.08, the oldest version I can test.
 
